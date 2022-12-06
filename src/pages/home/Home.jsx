@@ -12,7 +12,7 @@ const Home = () => {
         <div className="widgets">
           <Wiget type="user" />
           <Wiget type="order" />
-          <Wiget type="earning" />
+          <Wiget type="earnings" />
           <Wiget type="balance" />
         </div>
       </div>
